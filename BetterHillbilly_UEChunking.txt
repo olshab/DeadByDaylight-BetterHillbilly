@@ -1,0 +1,11 @@
+DeadByDaylight\Content\HillbillyAimAssist
+DeadByDaylight\Content\HillbillyAnimations
+DeadByDaylight\Content\HillbillyChainsawAddons
+DeadByDaylight\Content\Blueprints\GameplayElements\Item\Chainsaw\HillbillyChainsawRevInteraction_BP.uasset
+[MODIFIED] DeadByDaylight\Content\Blueprints\GameplayElements\Item\Chainsaw\Chainsaw.uasset
+DeadByDaylight\Content\Characters\Slashers\Blueprints\Menu
+DeadByDaylight\Content\Characters\Slashers\Crooked\Blueprint
+DeadByDaylight\Content\Characters\Slashers\Crooked\Materials\MI_TCHair01.uasset
+DeadByDaylight\Content\Characters\Slashers\Crooked\Materials\Hair
+DeadByDaylight\Content\Characters\Slashers\Crooked\Weapons\Models\ChainSaw01_REF.uasset
+DeadByDaylight\Content\Characters\Slashers\Crooked\Weapons\Models\Materials
